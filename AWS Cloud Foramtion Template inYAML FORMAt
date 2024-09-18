@@ -1,3 +1,40 @@
+Resources or Services Used in Project and its Hierarchy:
+Network and Compute section components
+
+
+
+
+
+
+
+https://docs.google.com/document/d/15Qd5AGUAIHBm5EaBcxCIE13drouBKBIC/edit?usp=drive_link&ouid=104678854895910048705&rtpof=true&sd=true
+
+
+
+
+	
+Load Balancing section components
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 AWSTemplateFormatVersion: '2010-09-09'
 Description: AWS CloudFormation template to create VPC, IGW, subnets, route tables, EC2 instances, and ALB
 
