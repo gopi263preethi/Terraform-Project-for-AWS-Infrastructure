@@ -89,8 +89,8 @@ output "subnet_id" {
     value = aws_subnet.public-mum1.id
 }
 # Security Groups Ids 
-output "sg-id" {
-    value = vpc_security_group_id
+output "sg_id" {
+    value = vpc_security_group.main-sg.id
 }
 
 
