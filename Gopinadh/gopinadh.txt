@@ -1,0 +1,7 @@
+Hello This is gopinadh, i have done some basic projects in Terraform.
+I need to set the backend and terraform work spaces.
+like prod, stage, dev.
+terraform create workspace prod
+terraform select workspace dev
+terraform select workspace default
+
