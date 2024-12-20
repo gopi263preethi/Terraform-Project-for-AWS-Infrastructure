@@ -1,0 +1,5 @@
+Okay i have clone the remote repository url in the git command line tool and i tried to add the contents to it.
+like adding files and config files and other. 
+from here i can push the changes to my git-hub repo and i was unable to create the new repo from git --client. however it is not required here 
+
+
